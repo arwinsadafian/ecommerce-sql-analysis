@@ -179,3 +179,14 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# CSV data files
+*.csv
+
+# IDEs
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
